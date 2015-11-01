@@ -1,0 +1,19 @@
+#ignore TeX 
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.spl
+*.nav
+*.toc
+*.snm
+*.vrb
+*.synctex
+*.synctex.gz
+
+#for mac
+.DS_Store
+
+#ignore VIM swap file
+*.swp
